@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Çağla Su Çelik</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/@caglasucelik02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@caglasucelik02" height="40" width="50" /></a>
+<a href="https://linkedin.com/in/caglasucelik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@caglasucelik02" height="40" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
